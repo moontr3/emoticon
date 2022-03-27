@@ -31,5 +31,5 @@ emoticon.print_emoticon("How are you doing?", is_sitting=True)
 | city | | City name |
 | country | | Country name |
 | lat | | Latitude in decimal degree |
-| lon | | Longitude in decimal degree |
+| right_hand_up | Boolean (default: False) | Used for raising right hand |
 | round_message | Boolean (default: True) | Used for changing text bubble style |
