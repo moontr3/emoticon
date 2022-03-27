@@ -12,11 +12,11 @@ emoticon.print_emoticon("How are you doing?", is_sitting=True)
 ...
 ```
 
-## Reference
 - `get_emoticon(text, is_sitting, left_hand_up, right_hand_up, round_message)` - Get a string with emoticon
 
 - `print_emoticon(text, is_sitting, left_hand_up, right_hand_up, round_message)` - Print an emoticon
 
+## Reference
 | Attribute | Type | Description |
 | -=-=-=- | -=-=-=- | -=-=-=- |
 | text | String / str | Text for text bubble |
