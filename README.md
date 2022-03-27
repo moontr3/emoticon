@@ -33,19 +33,3 @@ emoticon.print_emoticon("How are you doing?", is_sitting=True)
 | lat | | Latitude in decimal degree |
 | lon | | Longitude in decimal degree |
 | timezone | UTC | Timezone of the city |
-| timezone_name | | Region name of the city's timezone |
-| temp | °C | Temperature |
-| temp_min | °C | Minimm temperature |
-| temp_max | °C | Maximum temperature |
-| temp_feelslike | °C | Human perception of weather |
-| humidity | % | Humidity as percentage |
-| visibility | m | Visibility as meters |
-| pressure | mB | Atmospheric pressure as millibars |
-| uv | | UV index |
-| wind_speed | m/s | Wind speed |
-| wind_degree | ° | Wind direction in degrees |
-| wind_dir | | Wind direction as 16 point compass |
-| gust_speed | m/s | Wind gust speed |
-| cloudliness | % | Cloudliness as percentage |
-| state_wapi | | Weather state description provided by WeatherAPI |
-| state_owm | | Weather state description provided by OpenWeatherMap |
