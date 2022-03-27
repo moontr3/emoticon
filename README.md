@@ -19,11 +19,11 @@ emoticon.print_emoticon("How are you doing?", is_sitting=True)
 ## Reference
 | Attribute | Type | Description |
 | -=-=-=- | -=-=-=- | -=-=-=- |
-| text | String / str | Text for text bubble |
-| is_sitting | Boolean (True/False, default: False) / bool | Used for sitting down |
-| left_hand_up | Boolean (True/False, default: False) / bool | Used for raising left hand |
-| right_hand_up | Boolean (True/False, default: False) / bool | Used for raising right hand |
-| round_message | Boolean (True/False, default: True) / bool | Used for changing text bubble style |
+| text | String| Text for text bubble |
+| is_sitting | Boolean (True/False, default: False) | Used for sitting down |
+| left_hand_up | Boolean (True/False, default: False) | Used for raising left hand |
+| right_hand_up | Boolean (True/False, default: False) | Used for raising right hand |
+| round_message | Boolean (True/False, default: True) | Used for changing text bubble style |
 
 ## Reference
 | Attribute | Unit | Description |
