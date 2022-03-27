@@ -28,7 +28,7 @@ emoticon.print_emoticon("How are you doing?", is_sitting=True)
 ## Reference
 | Attribute | Type | Description |
 |-----|-----|-----|
-| city | | City name |
+| text | String | Text for text bubble |
 | is_sitting | Boolean (default: False) | Used for sitting down |
 | left_hand_up | Boolean (default: False) | Used for raising left hand |
 | right_hand_up | Boolean (default: False) | Used for raising right hand |
