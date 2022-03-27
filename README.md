@@ -33,3 +33,4 @@ emoticon.print_emoticon("How are you doing?", is_sitting=True)
 | lat | | Latitude in decimal degree |
 | lon | | Longitude in decimal degree |
 | timezone | UTC | Timezone of the city |
+| round_message | Boolean (default: True) | Used for changing text bubble style |
