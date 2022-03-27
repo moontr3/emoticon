@@ -29,7 +29,7 @@ emoticon.print_emoticon("How are you doing?", is_sitting=True)
 | Attribute | Type | Description |
 |-----|-----|-----|
 | city | | City name |
-| country | | Country name |
+| is_sitting | Boolean (default: False) | Used for sitting down |
 | left_hand_up | Boolean (default: False) | Used for raising left hand |
 | right_hand_up | Boolean (default: False) | Used for raising right hand |
 | round_message | Boolean (default: True) | Used for changing text bubble style |
