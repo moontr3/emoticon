@@ -54,7 +54,7 @@ import emoticon
 text = emoticon.get_emoticon("Hello world!", is_sitting=True)
 print(text)
 ----------------------------------
-Putting emoticon that ate sitting with text "Hello world!" into the variable and then printing it
+Putting emoticon that are sitting with text "Hello world!" into the variable and then printing it
 """
 
 ###################################################
